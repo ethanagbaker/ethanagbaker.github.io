@@ -1,5 +1,5 @@
 url: https://ethanagbaker.github.io
-baseurl: /
+#baseurl: /
 
 # Site settings
 title: Awesome Title
@@ -14,7 +14,7 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Ethan 
   pic: 1
   position: Lead Designer
   social:
