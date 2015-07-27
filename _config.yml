@@ -13,7 +13,7 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Ethan Alexander Garc&iacute;a Baker
+- name: Ethan 
   pic: 1
   position: Lead Designer
   social:
@@ -22,7 +22,7 @@ people:
      - title: linkedin
     url: https://www.linkedin.com/in/ethanagbaker
      - title: github
-    url: http://github.com/ethanagbaker
+     url: http://github.com/ethanagbaker
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
