@@ -15,15 +15,15 @@ color:
 # Team names, titles and social links
 people:
 - name: Ethan
-  pic: 1
-  position: Lead Designer
+  pic: /img/team/2.jpg
+  position: B.Phil. Candidate @ University of Pittsburgh
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: http://www.twitter.com/ethanabaker
+    - title: github
+      url: http://github.com/ethanagbaker
+    - title: linkedin
+      url: https://www.linkedin.com/in/ethanagbaker
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
