@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Ethan
-  pic: img/2
+  pic: 2
   position: B.Phil. candidate @ University of Pittsburgh
   social:
     - title: twitter
