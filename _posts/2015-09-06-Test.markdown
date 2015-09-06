@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TestPost"
+date:   2015-09-06 13:37:44
+categories: update
+---
+
+<img src="/images/pic01.jpg">
+This is a test to see what happens
