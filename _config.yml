@@ -1,6 +1,6 @@
 # Site settings
 title: Ethan Alexander Garc&iacute;a Baker
-email: ethanagbaker@gmail.como
+email: ethanagbaker@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Scientist, philosopher, bioinformatician, student, TBD.
 baseurl: "" # the subpath of your site, e.g. /blog/
