@@ -21,5 +21,5 @@ Past projects include a comparative transcriptomic analysis of the white pines w
 
 <br>
 
-[My CV](https://pitt.box.com/shared/static/rtv6dsxrxr4kdvms4eal0bzcq4n1j8yw.pdf)
+[My CV](https://drive.google.com/file/d/0Bz-BTG9vyxD-bFN3cWRZTGprWGs/view?usp=sharing)
 
