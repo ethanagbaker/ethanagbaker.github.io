@@ -15,7 +15,7 @@ My research interests are varied, but center at the intersection of genomics, me
 
 ##### Computational Modeling of Neural Mechanism Driving Blood Pressure Regulation
 
-The most essential function of the nervous system is to maintain homeostasis. My Bachelor of Philosophy thesis with the [Yates Lab\(http://neuroyates.com) at the University of Pittsburgh is attempting to define a computational model for the neural and vestibular processes responsible for modulation of blood flow and pressure during postural changes. I am employing strategies from data science, statistics, and bioinformatics to make sense of massive quantities of neural and blood flow recording data.
+The most essential function of the nervous system is to maintain homeostasis. My Bachelor of Philosophy thesis with the [Yates Lab](http://neuroyates.com) at the University of Pittsburgh is attempting to define a computational model for the neural and vestibular processes responsible for modulation of blood flow and pressure during postural changes. I am employing strategies from data science, statistics, and bioinformatics to make sense of massive quantities of neural and blood flow recording data.
 
 ##### Mechanics of Next Generation Sequencing Library Failure 
 Why do some libraries perform far better than others during next-generation sequencing? Work with the McCombie Lab at [Cold Spring Harbor Laboratory](http://cshl.edu) attempts to better characterize causes of NGS sequencing failure and where damage happens. See our abstract submitted to AGBT 2016 here. (upon publication)
