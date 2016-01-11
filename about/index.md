@@ -21,5 +21,5 @@ Past projects include a comparative transcriptomic analysis of the white pines w
 
 <br>
 
-[My CV](https://drive.google.com/file/d/0Bz-BTG9vyxD-bFN3cWRZTGprWGs/view?usp=sharing)
+[My CV is available here](http://ethanagbaker.github.io/images/CV.pdf)
 
