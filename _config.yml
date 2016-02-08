@@ -9,7 +9,7 @@ url:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rogue
 sass:
   sass_dir: _sass
   style: compressed
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Ethan Alexander Garc&iacutea Baker
   avatar: avatar.jpg
-  bio: "student/scientist/ philosopher/ bioinformatician/ adventurer/TBD in training. \n B.Phil. Candidate, University of Pittsburgh."
+  bio: "student/scientist/ philosopher/ bioinformatician/ adventurer/TBD. In training. \n B.Phil. Candidate, University of Pittsburgh."
   email: ethanagbaker+website@gmail.com
   disqus-shortname:
   twitter: ethanabaker
