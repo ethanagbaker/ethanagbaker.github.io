@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Ethan Alexander Garc&iacutea Baker</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2016-02-08T18:58:10-05:00</updated>
+<id>/</id>
+<author>
+  <name>Ethan Alexander Garc&iacutea Baker</name>
+  <uri>/</uri>
+  <email>ethanagbaker+website@gmail.com</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Barry M. Goldwater Scholarship Nomination]]></title>
+  <link rel="alternate" type="text/html" href="/goldwater-nominee/" />
+  <id>/goldwater-nominee</id>
+  <published>2016-01-30T00:00:00-05:00</published>
+  <updated>2016-01-30T00:00:00-05:00</updated>
+  <author>
+    <name>Ethan Alexander Garc&iacutea Baker</name>
+    <uri></uri>
+    <email>ethanagbaker+website@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;hr /&gt;
+
+&lt;p&gt;I have been nominated to advance to the national round of the &lt;a href=&quot;https://goldwater.scholarsapply.org/yybull.php&quot;&gt;Barry M. Goldwater Scholarship&lt;/a&gt; for the 2016 scholarship competition. The Goldwater Scholarship is the highest recognition given by the United States Government in recognition of undergraduate excellence in research in science and engineering. American universities may nominate up to 4 candidates to the national contest after a competitive internal selection process on the basis of acdemic record and a research proposal. Results of the competition will be made public in late March 2016.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/goldwater-nominee/&quot;&gt;Barry M. Goldwater Scholarship Nomination&lt;/a&gt; was originally published by Ethan Alexander Garc&iacutea Baker at &lt;a href=&quot;&quot;&gt;Ethan Alexander Garc&iacutea Baker&lt;/a&gt; on January 30, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Chancellor's Undergraduate Research Fellowship]]></title>
+  <link rel="alternate" type="text/html" href="/curf/" />
+  <id>/curf</id>
+  <published>2016-01-08T00:00:00-05:00</published>
+  <updated>2016-01-08T00:00:00-05:00</updated>
+  <author>
+    <name>Ethan Alexander Garc&iacutea Baker</name>
+    <uri></uri>
+    <email>ethanagbaker+website@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;hr /&gt;
+&lt;p&gt;I have been named a &lt;a href=&quot;http://www.honorscollege.pitt.edu/node/860&quot;&gt;Chancellor’s Undergraduate Research Fellowship&lt;/a&gt; for the Spring 2016 semester. This award is in support of my &lt;a href=&quot;http://ethanagbaker.github.io/projects/&quot;&gt;thesis work&lt;/a&gt; on a neuroinformatic approach to characterizing autonomic regulation in response to vestibular stimuli.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/curf/&quot;&gt;Chancellor&#39;s Undergraduate Research Fellowship&lt;/a&gt; was originally published by Ethan Alexander Garc&iacutea Baker at &lt;a href=&quot;&quot;&gt;Ethan Alexander Garc&iacutea Baker&lt;/a&gt; on January 08, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Test Post Please Ignore]]></title>
+  <link rel="alternate" type="text/html" href="/test-post/" />
+  <id>/test-post</id>
+  <published>2015-11-01T00:00:00-04:00</published>
+  <updated>2015-11-01T00:00:00-04:00</updated>
+  <author>
+    <name>Ethan Alexander Garc&iacutea Baker</name>
+    <uri></uri>
+    <email>ethanagbaker+website@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;h2 id=&quot;welcome-to-the-internet-me&quot;&gt;Welcome to the internet, me.&lt;/h2&gt;
+&lt;p&gt;This website runs on the super rad &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; platform through &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. That means it’s totally open source and you can see the code for the entire site in my &lt;a href=&quot;https://github.com/ethanagbaker/ethanagbaker.github.io&quot;&gt;GitHub repo for this site&lt;/a&gt;. I’ve modified the very nice &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/&quot;&gt;Minimal Mistakes&lt;/a&gt; theme to build this site (also open-source).&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/test-post/&quot;&gt;Test Post Please Ignore&lt;/a&gt; was originally published by Ethan Alexander Garc&iacutea Baker at &lt;a href=&quot;&quot;&gt;Ethan Alexander Garc&iacutea Baker&lt;/a&gt; on November 01, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
