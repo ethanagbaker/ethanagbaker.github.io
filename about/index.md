@@ -13,7 +13,7 @@ image:
 I am a third-year undergraduate student at the [University of Pittsburgh](http://www.pitt.edu). I am a [Bachelor of Philosophy](https://en.wikipedia.org/wiki/Bachelor_of_Philosophy) candidate in the [Department of Neuroscience](http://neuroscience.pitt.edu), concentrating on computational biology and neuroinformatics. I'm also pursuing a Bachelor of the Arts in [History and Philosophy of Science](http://www.hps.pitt.edu).
 <br>
 <br>
-**I'll be looking for a PhD position in computational genomics and bioinformatics later on this year. My CV is below (also [here](http://ethanagbaker.github.io/images/CV.pdf)). **
+__I'll be looking for a PhD position in computational genomics and bioinformatics later on this year. My CV is below (also [here](http://ethanagbaker.github.io/images/CV.pdf)).__
   
 <br>
 
