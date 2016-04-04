@@ -2,7 +2,7 @@
 layout: post
 title: "Barry M. Goldwater Scholarship Honorable Mention"
 modified:
-excerpt: "I have awarded an Honorable Mention in the 2016 Barry M. Goldwater national scholarship competition."
+excerpt: "I have been awarded an Honorable Mention in the 2016 Barry M. Goldwater national scholarship competition."
 tags: [news]
 ---
 
