@@ -5,7 +5,7 @@ modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Here's what I've been working on..."
 image:
   feature: burlington3.jpg
-  credit: Me (Lake Champlain, Burlington, VT) 
+  credit: Ethan A. G. Baker (Lake Champlain, Burlington, VT) 
   creditlink: 
 ---
 ### Research Interests
@@ -24,6 +24,9 @@ Why do some libraries perform far better than others during next-generation sequ
 Conifers are the dominant class of tree species across much of the North and play an essential ecological and economic role. Conifers have genomes several times the size of the human genome, presenting unique computational challenges. Here, we present the first comparative analysis of several non-model conifers, providing new insight on gene conservation across the pines. Read our paper in G3 (In review). 
 
 #### Past Projects
+
+##### Philosophy of the Human Genome Project and the Post-Genomic Gene Concept
+Since the Human Genome Project, advances in NGS technologies and computation have made available massive quantities of genetic data. As genetics (and biology) become "big data" fields, how has the gene concept evolved? My paper _The Post-Genomic Gene: An Informatic View_ draws on the (relatively recent) history of science to assess how technological advancements have changed our conception of the gene.  
 
 ##### Addressing Health Disparities: Lessons from Latin American Social Medicine
 How do social factors like class, violence, nutrition, and race affect health? Should healthcare providers expand their conception of health to include and treat these problems? As a [Brackenridge Fellow](http://www.honorscollege.pitt.edu/fall-spring-brackenridge-fellowships) I am working with the [Center for Bioethics and Health Law](http://www.bioethics.pitt.edu/) to provide answers on what the United States could learn by looking to its neighbors south of the border. 
