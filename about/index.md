@@ -17,9 +17,9 @@ __I'll be looking for a PhD position in computational genomics and bioinformatic
   
 <br>
 Currently, I am a research intern in the [Gerstein Lab](http://gersteinlab.org) at [Yale University](http://www.yale.edu), where I am working on peak calling in massively parallel regulatory assays to identify ehnancers as part of the Gerstein Lab's contribution to [ENCODE](https://www.encodeproject.org/). Previously, I was the William Shakespeare Fellow at [Cold Spring Harbor Laboratory](http://cshl.edu) where I worked with the McCombie Lab to improve NGS sequencing pipelines and develop _in-silico_ [simulation software](http://github.com/ethanagbaker/pblibsim) for generation of PacBio long read data. 
-
+<br>
 Other current projects include development of computational models of neural circuits implicated in autonomic regulation with the [Yates Lab](http://neuroyates.com) at the University of Pittsburgh. 
-
+<br>
 Past projects include a comparative transcriptomic analysis of the white pines with the [Computational Genomics Laboratory](http://compgenomics.lab.uconn.edu) at the [University of Connecticut](http://www.uconn.edu).
 
 <br>
