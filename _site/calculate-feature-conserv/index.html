@@ -196,7 +196,7 @@ for chromosome in chromNames:
 	    featureConservation = float(sum(featureSubset.conserveScore)/(chromSubset['end'][chromSubset.index[i]]-chromSubset['start'][chromSubset.index[i]]))
 	    peakDF.set_value(chromSubset.index[i],'conservation',featureConservation)
 	    featureSubset=None
-peakDF.to_csv("featureConservation.td", sep = '\t') ```
+peakDF.to_csv("featureConservation.td", sep = '\t')
 </code></pre>
 
 <p>This will write a tab-delimited, BED-like file of calculated mean conservation values on each feature in <code>featureFile</code>. It might look something like this:</p>

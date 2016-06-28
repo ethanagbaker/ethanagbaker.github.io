@@ -51,7 +51,7 @@ Now, the code:
 		    peakDF.set_value(chromSubset.index[i],'conservation',featureConservation)
 		    featureSubset=None
     peakDF.to_csv("featureConservation.td", sep = '\t')
-```
+
 
 This will write a tab-delimited, BED-like file of calculated mean conservation values on each feature in `featureFile`. It might look something like this:
 

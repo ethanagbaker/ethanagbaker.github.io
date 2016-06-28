@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-06-27T20:08:14-04:00</updated>
+<updated>2016-06-27T20:08:49-04:00</updated>
 <id>/</id>
 <author>
   <name>Ethan Alexander Garc&iacutea Baker</name>
@@ -70,7 +70,7 @@ for chromosome in chromNames:
 	    featureConservation = float(sum(featureSubset.conserveScore)/(chromSubset[&#39;end&#39;][chromSubset.index[i]]-chromSubset[&#39;start&#39;][chromSubset.index[i]]))
 	    peakDF.set_value(chromSubset.index[i],&#39;conservation&#39;,featureConservation)
 	    featureSubset=None
-peakDF.to_csv(&quot;featureConservation.td&quot;, sep = &#39;\t&#39;) ```
+peakDF.to_csv(&quot;featureConservation.td&quot;, sep = &#39;\t&#39;)
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;This will write a tab-delimited, BED-like file of calculated mean conservation values on each feature in &lt;code&gt;featureFile&lt;/code&gt;. It might look something like this:&lt;/p&gt;
