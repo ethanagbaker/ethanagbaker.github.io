@@ -4,13 +4,83 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-06-27T18:12:25-04:00</updated>
+<updated>2016-06-27T20:08:14-04:00</updated>
 <id>/</id>
 <author>
   <name>Ethan Alexander Garc&iacutea Baker</name>
   <uri>/</uri>
   <email>ethanagbaker+website@gmail.com</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Calculating Mean Conservation Score on Genomic Features]]></title>
+  <link rel="alternate" type="text/html" href="/calculate-feature-conserv/" />
+  <id>/calculate-feature-conserv</id>
+  <published>2016-06-27T00:00:00-04:00</published>
+  <updated>2016-06-27T00:00:00-04:00</updated>
+  <author>
+    <name>Ethan Alexander Garc&iacutea Baker</name>
+    <uri></uri>
+    <email>ethanagbaker+website@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;hr /&gt;
+
+&lt;p&gt;This code will calculate the mean conservation score on the features in a BED file from the USCS Genome Browser.
+&lt;br /&gt;
+&lt;br /&gt;
+It requires Python and Pandas (&lt;code&gt;pip install pandas&lt;/code&gt;).
+&lt;br /&gt;
+&lt;br /&gt;
+This also requires that your feature file be a BED-like format - chromosome, start, end, and name positions must follow the BED specification, but additional columns can be appended and preserved. Data from the UCSC Conservation Track (downloaded as single base conservation) should also be converted to one BED-like file per chromosome, which can be done trivially by using the &lt;code&gt;cat -n&lt;/code&gt; command in Terminal, adding the chromosome name (in the same style as the feature file) to each line with &lt;code&gt;awk&lt;/code&gt;, and ensuring that all whitespace characteres are tabs (&lt;code&gt;/t&lt;/code&gt;).
+&lt;br /&gt;
+&lt;br /&gt;
+A sample &lt;code&gt;featureFile&lt;/code&gt; and &lt;code&gt;conservationFile&lt;/code&gt; might look something like this:&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/dc7bc62a413cbbc32bbf944125845afd.js&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;Now, the code:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;from __future__ import division
+import pandas as pd
+
+FEATUREFILE = &#39;filename&#39;
+CONSERVATIONFILEDIR = &#39;./conservation/&#39;
+
+peakDF = pd.read_csv(str(FEATUREFILE), sep = &#39;\t&#39;, header=None, names=[&#39;chrom&#39;,&#39;start&#39;,&#39;end&#39;,&#39;name&#39;,&#39;enrichmentVal&#39;])
+#Reject negative peak starts, if they exist (sometimes this can happen w/ MACS)
+peakDF.drop(peakDF[peakDF.start &amp;lt;= 0].index, inplace=True)
+peakDF.reset_index(inplace=True)
+peakDF.drop(&#39;index&#39;, axis=1, inplace=True)
+peakDF[&#39;conservation&#39;] = 1.0
+
+chromNames = peakDF.chrom.unique()
+
+for chromosome in chromNames: 
+    chromSubset = peakDF[peakDF.chrom == str(chromosome)]
+    chromDF = pd.read_csv(str(CONSERVATIONFILEDIR) + str(chromosome)+&#39;.bed&#39;, sep=&#39;\t&#39;, header=None, names=[&#39;chrom&#39;,&#39;start&#39;,&#39;end&#39;,&#39;conserveScore&#39;])
+
+    for i in xrange(0,len(chromSubset.index)):
+	    x = chromDF[chromDF.start &amp;gt;= chromSubset[&#39;start&#39;][chromSubset.index[i]]]
+	    featureSubset = x[x.start &amp;lt; chromSubset[&#39;end&#39;][chromSubset.index[i]]]
+	    x=None
+	    featureConservation = float(sum(featureSubset.conserveScore)/(chromSubset[&#39;end&#39;][chromSubset.index[i]]-chromSubset[&#39;start&#39;][chromSubset.index[i]]))
+	    peakDF.set_value(chromSubset.index[i],&#39;conservation&#39;,featureConservation)
+	    featureSubset=None
+peakDF.to_csv(&quot;featureConservation.td&quot;, sep = &#39;\t&#39;) ```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This will write a tab-delimited, BED-like file of calculated mean conservation values on each feature in &lt;code&gt;featureFile&lt;/code&gt;. It might look something like this:&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/1749196f79a23687fe4fa6c6f025c0e8.js&quot;&gt; &lt;/script&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/calculate-feature-conserv/&quot;&gt;Calculating Mean Conservation Score on Genomic Features&lt;/a&gt; was originally published by Ethan Alexander Garc&iacutea Baker at &lt;a href=&quot;&quot;&gt;Ethan Alexander Garc&iacutea Baker&lt;/a&gt; on June 27, 2016.&lt;/p&gt;
+  </content>
+</entry>
 
 
   
