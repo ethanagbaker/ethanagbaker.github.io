@@ -4,6 +4,7 @@ title: "Barry M. Goldwater Scholarship Nomination"
 modified:
 excerpt: "I have been nominated to advance to the national round of the Goldwater Scholarship competition."
 tags: [news]
+comments: true
 ---
 
 
