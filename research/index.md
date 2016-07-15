@@ -14,7 +14,7 @@ My research interests are varied, but center at the intersection of genomics, me
 
 ### Current Projects
 
-####[SiLiCO: A Simulator of Long Read Sequencing in PacBio and Oxford Nanopore](http://silico.ethanagbaker.com)
+#### [SiLiCO: A Simulator of Long Read Sequencing in PacBio and Oxford Nanopore](http://silico.ethanagbaker.com)
 SiLiCO is a Python package for *in silico* read generation and Monte Carlo simulations of long read sequencing in PacBio and Oxford Nanopore. [Learn more.](http://silico.ethanagbaker.com)
 
 #### [Mechanics of Next Generation Sequencing Library Failure](/research/ngsfailure)
