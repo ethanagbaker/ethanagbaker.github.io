@@ -24,7 +24,7 @@ Why do some libraries perform far better than others during next-generation sequ
 The most essential function of the nervous system is to maintain homeostasis. My Bachelor of Philosophy thesis with the [Yates Lab](http://neuroyates.com) at the University of Pittsburgh is attempting to define a computational model for the neural and vestibular processes responsible for modulation of blood flow and pressure during postural changes. I am employing strategies from data science, statistics, and bioinformatics to make sense of massive quantities of neural and blood flow recording data.
 
 
-#### Comparative Needle Transcriptomics in White Pines](/research/needletranscriptomics
+#### Comparative Needle Transcriptomics in White Pines](/research/needletranscriptomics)
 Conifers are the dominant class of tree species across much of the North and play an essential ecological and economic role. Conifers have genomes several times the size of the human genome, presenting unique computational challenges. Here, we present the first comparative analysis of several non-model conifers, providing new insight on gene conservation across the pines. Read our paper in G3 (In review). 
 
 ### Past Projects
