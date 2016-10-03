@@ -4,13 +4,39 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-09-06T17:12:51-04:00</updated>
+<updated>2016-10-02T20:50:10-04:00</updated>
 <id>/</id>
 <author>
   <name>Ethan Alexander Garc&iacutea Baker</name>
   <uri>/</uri>
   <email>ethanagbaker+website@gmail.com</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[SiLiCO: A Simulator of Long Read Sequencing in PacBio and Oxford Nanopore]]></title>
+  <link rel="alternate" type="text/html" href="/silico-preprint-available/" />
+  <id>/silico-preprint-available</id>
+  <published>2016-10-02T00:00:00-04:00</published>
+  <updated>2016-10-02T00:00:00-04:00</updated>
+  <author>
+    <name>Ethan Alexander Garc&iacutea Baker</name>
+    <uri></uri>
+    <email>ethanagbaker+website@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;hr /&gt;
+
+&lt;p&gt;SiLiCO (&lt;strong&gt;Si&lt;/strong&gt;mulator of &lt;strong&gt;L&lt;/strong&gt;ong Read Sequencing &lt;strong&gt;i&lt;/strong&gt;n Pa&lt;strong&gt;c&lt;/strong&gt;Bio and &lt;strong&gt;O&lt;/strong&gt;xford Nanopore) is a simple software package for &lt;em&gt;in silico&lt;/em&gt; generation of long read sequencing data. The preprint of the SiLiCO manuscript, written in conjunction with the McCombie Lab at &lt;a href=&quot;http://www.cshl.edu&quot;&gt;Cold Spring Harbor Laboratory&lt;/a&gt; is now available on BioRxiv. &lt;a href=&quot;http://biorxiv.org/content/early/2016/09/22/076901&quot;&gt;You can read it here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The SiLiCO package is written in Python 3 and is backwards compatible with Python 2.0 or newer. SiLiCO is open source software and is distributed under the GNU GPL 3.0 license. You can download SiLiCO and access its documentation at &lt;a href=&quot;http://silico.ethanagbaker.com&quot;&gt;silico.ethanagbaker.com&lt;/a&gt;.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/silico-preprint-available/&quot;&gt;SiLiCO: A Simulator of Long Read Sequencing in PacBio and Oxford Nanopore&lt;/a&gt; was originally published by Ethan Alexander Garc&iacutea Baker at &lt;a href=&quot;&quot;&gt;Ethan Alexander Garc&iacutea Baker&lt;/a&gt; on October 02, 2016.&lt;/p&gt;
+  </content>
+</entry>
 
 
   
