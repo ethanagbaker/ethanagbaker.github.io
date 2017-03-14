@@ -1,11 +1,11 @@
 # Site Settings
 title:               Ethan Alexander Garc&iacutea Baker
 tagline:             computational biologist
-description:
+description:         phd student at MIT writing about genomics, bioinformatics, science policy, and life as a scientist.
 baseurl:
 url:
 github:
-  url:               
+  url:
 author:
   name:              "Ethan Alexander García Baker"
   email:             "ethanagbaker@gmail.com"
