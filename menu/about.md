@@ -14,4 +14,4 @@ Some other current projects include development of computational models of neura
 
 Outside of the lab, you can find me sailing, biking, hiking, or exploring Pittsburgh (probably by eating).
 
-[__My CV is available here__](../../docs/webCV15Mar.pdf)
+[__My CV is available here__](../../docs/webCV14Mar.pdf)
