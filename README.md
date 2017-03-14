@@ -1,5 +1,7 @@
-# Lagrange
+# ethanagbaker.com
 
-A minimalist Jekyll theme for running a personal blog. For everything you would ever need to know, please visit [the demo site](https://lenpaul.github.io/Lagrange/).
+This is my personal website/blog. It's you can check it out at [ethanagbaker.com](http://www.ethanagbaker.com).
 
-![alt text](https://cloud.githubusercontent.com/assets/8409329/21747617/7ef0e18e-d53a-11e6-8f90-8bb14b62ba20.jpg "Lagrange Demo Image")
+If you're looking for the SiLiCO page, you can find that at [silico.ethanagbaker.com](http://silico.ethanagbaker.com).
+
+This website is based on the Lagrange template, and is open source under the MIT license. Feel free to make a copy and mess around with it.
