@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Joining MIT Biology"
+date: 2017-02-21
+categories: journal
+tags: [documentation,sample]
+image:
+  feature: MIT.jpg
+  teaser: MIT.jpg
+  credit:
+  creditlink:
+---
+After many weeks of interviewing, and many more weeks of filling out applications, I have decided to join the [Department of Biology](http://biology.mit.edu) at the [Massachusetts Institute of Technology](http://web.mit.edu) beginning in Fall 2017. I look forward to writing much more about my graduate school and scientific experiences in the months and years ahead as I transition to life at MIT.
