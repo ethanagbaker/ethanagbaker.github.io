@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Named NSF Graduate Research Fellow"
-date: 2017-02-21
+date: 2017-03-17
 categories: journal
 tags: [personal, news]
 image:
