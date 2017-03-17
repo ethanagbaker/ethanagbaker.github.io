@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Named NSF Graduate Research Fellow"
+date: 2017-02-21
+categories: journal
+tags: [personal, news]
+image:
+  feature:
+  teaser:       
+  credit:
+  creditlink:
+---
+I am pleased to share that I have been named a 2017 recipient of the National Science Foundation [Graduate Research Fellowship Program](http://nsfgrfp.org). This award will provide full funding for my graduate training at MIT. The Fellowship is open to graduating undergraduates and first and second year graduate students. 2,000 Fellows are named each year out of an applicant pool of over 13,000.
+
+[NSF Press Release](https://www.nsf.gov/news/news_summ.jsp?cntn_id=191361&org=NSF&from=news)
