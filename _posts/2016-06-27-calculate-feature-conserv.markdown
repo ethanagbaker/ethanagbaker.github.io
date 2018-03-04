@@ -1,12 +1,21 @@
 ---
+title: "Calculating Mean Feature Conservation Score in BED Files"
 layout: post
-title: "Calculating Mean Conservation Score on Genomic Features"
-date: 2016-06-27
-categories: science
-tags: [code, genomics]
+date: 2016-06-27 22:10
+tag:
+- software
+- news
+image:
+headerImage: false
+projects: false
+hidden: false # don't count this post in blog pagination
+description:
+category: blog
+author: ethan
+externalLink: false
 ---
 
-This code will calculate the mean conservation score on the features in a BED file from the USCS Genome Browser.
+This code will calculate the mean conservation score on the features in a BED file from the UCSC Genome Browser.
 <br>
 <br>
 It requires Python and Pandas (`pip install pandas`).

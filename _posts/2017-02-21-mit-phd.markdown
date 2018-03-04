@@ -1,13 +1,14 @@
 ---
-layout: post
 title: "Joining MIT Biology"
-date: 2017-02-21
-categories: journal
-tags: [documentation,sample]
-image:
-  feature: MIT.jpg
-  teaser: MIT.jpg
-  credit:
-  creditlink:
+layout: post
+date: 2017-02-21 02:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- news
+category: blog
+author: ethan
+description: joining MIT biology
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 After many weeks of interviewing, and many more weeks of filling out applications, I have decided to join the [Department of Biology](http://biology.mit.edu) at the [Massachusetts Institute of Technology](http://web.mit.edu) beginning in Fall 2017. I look forward to writing much more about my graduate school and scientific experiences in the months and years ahead as I transition to life at MIT.
