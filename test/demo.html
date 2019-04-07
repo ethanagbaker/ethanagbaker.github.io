@@ -3,7 +3,7 @@
 <html>
 
 	<head>
-		<title>cytoscape-graphml.js demo</title>
+		<title>Sample Tumor Simulation Visual</title>
 
 		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
 
@@ -40731,9 +40731,59 @@
 
 					style: [
 						{
-							selector: 'node',
+							selector: 'node[d0="A"]',
 							style: {
-								'content': 'data(id)'
+								'content': 'data(id)',
+								'background-color': '#332288'
+							}
+						},
+						{
+							selector: 'node[d0="B"]',
+							style: {
+								'content': 'data(id)',
+								'background-color': '#88CCEE'
+							}
+						},
+						{
+							selector: 'node[d0="C"]',
+							style: {
+								'content': 'data(id)',
+								'background-color': '#44AA99'
+							}
+						},
+						{
+							selector: 'node[d0="D"]',
+							style: {
+								'content': 'data(id)',
+								'background-color': '#117733'
+							}
+						},
+						{
+							selector: 'node[d0="E"]',
+							style: {
+								'content': 'data(id)',
+								'background-color': '#999933'
+							}
+						},
+						{
+							selector: 'node[d0="F"]',
+							style: {
+								'content': 'data(id)',
+								'background-color': '#DDCC77'
+							}
+						},
+						{
+							selector: 'node[d0="G"]',
+							style: {
+								'content': 'data(id)',
+								'background-color': '#CC6677'
+							}
+						},
+						{
+							selector: 'node[d0="H"]',
+							style: {
+								'content': 'data(id)',
+								'background-color': '#882255'
 							}
 						},
 
@@ -40755,6 +40805,7 @@
                                             this.graphml({layoutBy: 'cose'});
                                             this.graphml(graphStr);
                                             console.log(this.graphml());
+
 					}
 				});
 
