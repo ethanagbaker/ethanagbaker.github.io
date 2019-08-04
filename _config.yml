@@ -16,7 +16,11 @@ resume: true
 resume-external: false
 resume-url: assets/images/CV.pdf
 
+<<<<<<< HEAD
 url: http ://www.ethanagbaker.com
+=======
+url: https://www.ethanagbaker.com
+>>>>>>> parent of fc18cb4... gem updates
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
