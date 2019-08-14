@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ethanagbaker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ethanagbaker.com
+  * I am ethanagbaker (https://keybase.io/ethanagbaker) on keybase.
+  * I have a public key ASCBgKcJXAC4wb3-bC23uuxCxhNCm5NuJ5RxJTMGcrzDlgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208180a7095c00b8c1bdfe6c2db7baec42c613429b936e27947125330672bcc3960a",
+      "host": "keybase.io",
+      "kid": "01208180a7095c00b8c1bdfe6c2db7baec42c613429b936e27947125330672bcc3960a",
+      "uid": "614c9b1e49b0fc8100ca86c680688f19",
+      "username": "ethanagbaker"
+    },
+    "merkle_root": {
+      "ctime": 1565816723,
+      "hash": "1c31a05ce96499962c5f9d2fec17c50c582289108f614205b737c9e37fc5aab5e6bfdcb4e3892a61a63c913213ef30b5919fc22a6bf431fb9cb1f86c24afaa00",
+      "hash_meta": "e56c60e986f093e73bf0363c3e899794961dae89b0eed69af4b38efe6b244c5c",
+      "seqno": 6017573
+    },
+    "service": {
+      "entropy": "zKKChsL60esThegMMSOa0xUh",
+      "hostname": "ethanagbaker.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.0"
+  },
+  "ctime": 1565816730,
+  "expire_in": 504576000,
+  "prev": "99e3e016f6f0ba96d4c75268df624e2ab9de9f30dd2540baf43a3824b2eb659b",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggYCnCVwAuMG9/mwtt7rsQsYTQpuTbieUcSUzBnK8w5YKp3BheWxvYWTESpcCC8QgmePgFvbwupbUx1Jo32JOKrnenzDdJUC69Do4JLLrZZvEIHyy57YXkVCbt5NQb4slxffVx3KKWSQSogdVQyW15zRgAgHCo3NpZ8RAgL+sfterQBMYGgvFRtaxF43ZqRfeM8kF0RFt5KxRb48OJAvjyO0Ry7Arp1XK3os+5fnLQk97LY2wgzslbfhmD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHfAopfEtoEZ6Lz8uHLY8/T1PnDTvTCk4yZbuUxyeKzTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ethanagbaker
+
+==================================================================
