@@ -14,7 +14,7 @@ category: project
 author: ethan
 description: SiLiCO is a simple tool for generation of reference long read sequencing data.
 ---
-## SiLiCO: A Simulator of Long Read Sequencing in PacBio and Oxford Nanopore
+# SiLiCO: A Simulator of Long Read Sequencing in PacBio and Oxford Nanopore
 
 SiLiCO is a Python package for in silico read generation and Monte Carlo simulations of long read sequencing in PacBio and Oxford Nanopore. Learn more and test out SiLiCO at [silico.ethanagbaker.com](http://silico.ethanagbaker.com).
 

@@ -13,7 +13,7 @@ category: project
 author: ethan
 description: Using high-throughput transcriptomics to assess response to disease and climate change in conifers.
 ---
-## Comparative Transcriptomics of White Pines
+# Comparative Transcriptomics of White Pines
 
 Conifers are the dominant plant species throughout the high latitude boreal forests as well as
 some lower latitude temperate forests of North America, Europe, and Asia. As such, they play an integral

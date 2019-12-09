@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Research
+title: Projects
 ---
+<center><h5>Research</h5></center>
+<h4> I develop computational methods that harness emerging data types to generate biological insights.</h4>
+<p> My current work focuses on statistical analysis of spatially-resolved single cell data, with applications to human disease. In the past, I've dabbled in computational genomics, epigenomics, and a bit of philosophy. Click on a project to learn more. </p>
 <section class="list">
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <h4 class="title">{{ post.title }}</h4>
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    <h3 class="title">{{ post.title }}</h3>
                 </a>
             </div>
         {% endif %}
